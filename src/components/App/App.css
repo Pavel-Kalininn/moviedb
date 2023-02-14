@@ -5,8 +5,8 @@
   padding: 0;
 }
 
-@media (min-width: 1010px){
-  .App{
+@media (min-width: 1010px) {
+  .App {
     width: 1010px;
   }
 }
